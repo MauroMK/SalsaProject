@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "name": {
+      "type": "string" },
+    "job": {
+      "type": "string" }
+  },
+  "required": ["name", "job"]
+}
